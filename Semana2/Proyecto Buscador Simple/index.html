@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Usuarios - Tarea 3</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        .tarjeta { 
+            border: 1px solid #ccc; 
+            padding: 20px; 
+            border-radius: 8px; 
+            max-width: 300px; 
+            margin-top: 20px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+        }
+        .buscador { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Buscador de Usuarios</h1>
+
+    <div class="buscador">
+        <input type="number" id="inputId" placeholder="Escribe ID (1-10)">
+        <button id="btnBuscar">Buscar</button>
+    </div>
+
+    <div id="resultado"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>

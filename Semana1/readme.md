@@ -133,7 +133,3 @@ Esta semana el participante debe reportar:
 - Guía de Lógica Básica
 - Estándares de código
 - README Template
-
-Onboarding  -  introduccion y presentacion de delphos / tenes en cuenta si lo hacemos en la idea de jose o aparte / Mejorar la idea de jose
-
-WorkSpace - Espacio de trabajo digital, Realizacion de tareas, actividades y evaluaciones / Anadir IA
