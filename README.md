@@ -19,7 +19,7 @@ Durante estas 3 semanas, me especializaré en el desarrollo web moderno utilizan
 
 ### Semana 2: Desarrollo Frontend & Estilos
 * **Enfoque:** Implementación de interfaces con Next.js y diseño ágil con Tailwind CSS.
-* **Objetivo:** Construir componentes reutilizables y responsivos.
+* **Objetivo:** Construir componentes reutilizables y responsivos, asi mismo crear archivos backends.
 
 ### Semana 3: Backend & Integración
 * **Enfoque:** Desarrollo de lógica en el servidor con Node.js y conexión de servicios.
