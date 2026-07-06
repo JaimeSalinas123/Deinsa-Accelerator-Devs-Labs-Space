@@ -22,7 +22,7 @@ Durante estas 3 semanas, me especializaré en el desarrollo web moderno utilizan
 * **Objetivo:** Construir componentes reutilizables y responsivos, asi mismo crear archivos backends.
 
 ### Semana 3: Backend & Integración
-* **Enfoque:** Desarrollo de lógica en el servidor con Node.js y conexión de servicios.
+* **Enfoque:** Desarrollo de lógica en el servidor con Node.js +n8n y conexión de servicios.
 * **Objetivo:** Finalización del proyecto integrador.
 
 ---
